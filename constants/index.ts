@@ -1,27 +1,27 @@
 export const navItems = [
 	{
 		name: 'Dashboard',
-		icon: '/assets/icons/dashboard.svg',
+		icon: '/icons/dashboard.svg',
 		url: '/',
 	},
 	{
 		name: 'Documents',
-		icon: '/assets/icons/documents.svg',
+		icon: '/icons/documents.svg',
 		url: '/documents',
 	},
 	{
 		name: 'Images',
-		icon: '/assets/icons/images.svg',
+		icon: '/icons/images.svg',
 		url: '/images',
 	},
 	{
 		name: 'Media',
-		icon: '/assets/icons/video.svg',
+		icon: '/icons/video.svg',
 		url: '/media',
 	},
 	{
 		name: 'Others',
-		icon: '/assets/icons/others.svg',
+		icon: '/icons/others.svg',
 		url: '/others',
 	},
 ];
@@ -29,27 +29,27 @@ export const navItems = [
 export const actionsDropdownItems = [
 	{
 		label: 'Rename',
-		icon: '/assets/icons/edit.svg',
+		icon: '/icons/edit.svg',
 		value: 'rename',
 	},
 	{
 		label: 'Details',
-		icon: '/assets/icons/info.svg',
+		icon: '/icons/info.svg',
 		value: 'details',
 	},
 	{
 		label: 'Share',
-		icon: '/assets/icons/share.svg',
+		icon: '/icons/share.svg',
 		value: 'share',
 	},
 	{
 		label: 'Download',
-		icon: '/assets/icons/download.svg',
+		icon: '/icons/download.svg',
 		value: 'download',
 	},
 	{
 		label: 'Delete',
-		icon: '/assets/icons/delete.svg',
+		icon: '/icons/delete.svg',
 		value: 'delete',
 	},
 ];

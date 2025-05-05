@@ -2,6 +2,8 @@
 
 declare type FileType = 'document' | 'image' | 'video' | 'audio' | 'other';
 
+declare type AuthFormProps = 'sign-in' | 'sign-up';
+
 declare interface ActionType {
 	label: string;
 	icon: string;
